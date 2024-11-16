@@ -1,9 +1,9 @@
-# Project Based Learning
+Project-Based Learning: A Curated List of Programming Tutorials
+This repository offers a comprehensive collection of programming tutorials designed for aspiring software developers. Through hands-on projects, you'll gain practical experience by building applications from scratch, covering a wide range of programming languages and technologies.
 
+To embark on your learning journey, simply fork this repository. For detailed contribution guidelines, please refer to 
 
-A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
-
-To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+CONTRIBUTING.md.
 
 ## Table of Contents:
 
