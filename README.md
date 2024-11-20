@@ -1,5 +1,5 @@
 #### Project-Based Learning: 
-###•	Dual Learning Systems: The brain has two main ways of learning: 
+###	Dual Learning Systems: The brain has two main ways of learning: 
 	# Cognitive (Cortical): Conscious, deliberate learning of facts and concepts. Think studying, reading, or attending lectures.
 	# Procedural (Subcortical): Unconscious, skill-based learning through practice and repetition. Think riding a bike, playing an instrument, or mastering a sport.
 
