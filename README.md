@@ -1,9 +1,11 @@
-#### Project-Based Learning: A Curated List of Programming Tutorials
+#### Project-Based Learning: 
+###•	Dual Learning Systems: The brain has two main ways of learning: 
+	# Cognitive (Cortical): Conscious, deliberate learning of facts and concepts. Think studying, reading, or attending lectures.
+	# Procedural (Subcortical): Unconscious, skill-based learning through practice and repetition. Think riding a bike, playing an instrument, or mastering a sport.
+
+
 This repository offers a comprehensive collection of programming tutorials designed for aspiring software developers. Through hands-on projects, you'll gain practical experience by building applications from scratch, covering a wide range of programming languages and technologies.
 
-To embark on your learning journey, simply fork this repository. For detailed contribution guidelines, please refer to 
-
-CONTRIBUTING.md.
 
 ## Table of Contents:
 
